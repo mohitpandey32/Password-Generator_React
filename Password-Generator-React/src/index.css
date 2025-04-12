@@ -1,0 +1,59 @@
+@import "tailwindcss";
+
+h1 {
+  font-size: 35px;
+  text-align: center;
+  color: #BADEFC ;
+  padding-bottom: 1rem;
+}
+
+#container {
+  padding-top: 2rem;
+  padding-right: 2rem;
+  width:50rem;
+  border-radius: 2rem;
+  margin-left: 28rem;
+  align-items: center;
+  text-align: center;
+  cursor: pointer;
+  margin-top: 13rem;
+}
+
+input {
+  border-radius: 2rem;
+  color: black;
+  margin-top: 1rem;
+  height: 2rem;
+
+}
+
+button {
+  color: white;
+  height: 2.7rem;
+  width: 5rem;
+  margin-left: 2rem;
+  border-radius: 2rem;
+  
+}
+
+button:hover {
+  opacity: 0.5;
+}
+
+label {
+  font-size: 1.5rem;
+  margin-top: 1.5rem;
+  margin-bottom: 8px;
+  margin-left: 0.5rem;
+}
+
+#checkBox1 {
+  position: absolute;
+  margin-left: 18rem;
+}
+
+#checkBox2 {
+  position: absolute;
+  margin-left: 28rem;
+  
+}
